@@ -9,14 +9,12 @@
   color: var(--color-gray-900);
   margin: 0 0 0.5rem 0;
   letter-spacing: -0.02em;
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 
 .page-subtitle {
   font-size: 1rem;
   color: var(--color-gray-600);
   margin: 0;
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 
 /* Detail Card */
@@ -90,12 +88,12 @@
 
 .detail-view-list .label {
   color: var(--color-gray-600);
+  font-weight: 700;
   font-size: 0.95rem;
 }
 
 .detail-view-list .value {
   color: var(--text-main);
-  font-weight: 700;
   font-size: 1.05rem;
 }
 
